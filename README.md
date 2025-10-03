@@ -16,7 +16,6 @@
 
 - 🔭 **Experience:** 4+ Years of professional development
 - 🎯 **Projects:** 15+ Completed projects
-- 😊 **Clients:** 10+ Happy clients
 - 🏢 **Companies:** 3+ Company experiences
 - 🎓 **Education:** B.Tech in Computer Science and Engineering
 - 🌍 **Location:** Kolkata, India
