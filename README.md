@@ -92,7 +92,6 @@
 
 ## 🌐 API Architecture & Integration
 
-
 ### 🎯 Core API Technologies
 
 <div align="center">
@@ -457,16 +456,39 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiswarupJana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiswarupJana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiswarupJana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats%20(Last%202%20Years)" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiswarupJana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages%20(Last%202%20Years)" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BiswarupJana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BiswarupJana&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FFAA00&sideLabels=FFAA00&currStreakNum=FFAA00" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BiswarupJana&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BiswarupJana&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph%20(Last%202%20Years)&area=true&from=2023-10-03&to=2025-10-03&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffaa00" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <h3>📈 Contribution Statistics (2023-2025)</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <h4>🔥 Total Contributions</h4>
+        <img src="https://img.shields.io/badge/Last_2_Years-5,875-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions"/>
+        <br><small>Oct 2023 - Oct 2025</small>
+      </td>
+      <td align="center">
+        <h4>⭐ Current Streak</h4>
+        <img src="https://img.shields.io/badge/Active_Days-3-orange?style=for-the-badge&logo=github&logoColor=white" alt="Current Streak"/>
+        <br><small>Oct 1 - Oct 3, 2025</small>
+      </td>
+      <td align="center">
+        <h4>🏆 Longest Streak</h4>
+        <img src="https://img.shields.io/badge/Best_Streak-15-blue?style=for-the-badge&logo=github&logoColor=white" alt="Longest Streak"/>
+        <br><small>Aug 29 - Sep 12, 2025</small>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
