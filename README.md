@@ -53,7 +53,13 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-90%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-95%25-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Go-75%25-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Fiber-80%25-00D9FF?style=for-the-badge&logo=go&logoColor=white" alt="Go Fiber"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/REST_API-90%25-FF6B6B?style=for-the-badge&logo=api&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Gin-70%25-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gin Framework"/>
+  <img src="https://img.shields.io/badge/Echo-65%25-00D4AA?style=for-the-badge&logo=go&logoColor=white" alt="Echo Framework"/>
 </p>
 
 ### Databases
@@ -78,7 +84,7 @@
 <p>
   <img src="https://img.shields.io/badge/Figma-70%25-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Firebase-70%25-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Go-60%25-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Microservices-80%25-FF6B35?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices"/>
 </p>
 
 </div>
@@ -138,13 +144,12 @@
 
 <div align="center">
 
-| 🎯 Metric                 | 📊 Value                |
-| ------------------------- | ----------------------- |
-| **Years of Experience**   | 4+                      |
-| **Completed Projects**    | 15+                     |
-| **Happy Clients**         | 10+                     |
-| **Company Experiences**   | 3+                      |
-| **Programming Languages** | English, Bengali, Hindi |
+| 🎯 Metric                 | 📊 Value                   |
+| ------------------------- | -------------------------- |
+| **Years of Experience**   | 4+                         |
+| **Completed Projects**    | 15+                        |
+| **Company Experiences**   | 3+                         |
+| **Programming Languages** | JavaScript, TypeScript, Go |
 
 </div>
 
