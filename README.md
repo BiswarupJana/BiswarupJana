@@ -465,27 +465,27 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BiswarupJana&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph%20(Last%202%20Years)&area=true&from=2023-10-03&to=2025-10-03&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffaa00" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=BiswarupJana&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph%20(Last%202%20Years)&area=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffaa00" alt="Contribution Graph" />
 </div>
 
 <div align="center">
-  <h3>📈 Contribution Statistics (2023-2025)</h3>
+  <h3>📈 Last 2 Years Statistics</h3>
   <table>
     <tr>
       <td align="center">
         <h4>🔥 Total Contributions</h4>
-        <img src="https://img.shields.io/badge/Last_2_Years-5,875-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions"/>
-        <br><small>Oct 2023 - Oct 2025</small>
+        <img src="https://img.shields.io/badge/5,883-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions"/>
+        <br><small>Oct 4, 2020 - Present</small>
       </td>
       <td align="center">
         <h4>⭐ Current Streak</h4>
-        <img src="https://img.shields.io/badge/Active_Days-3-orange?style=for-the-badge&logo=github&logoColor=white" alt="Current Streak"/>
-        <br><small>Oct 1 - Oct 3, 2025</small>
+        <img src="https://img.shields.io/badge/3_Days-orange?style=for-the-badge&logo=github&logoColor=white" alt="Current Streak"/>
+        <br><small>Oct 1 - Oct 3</small>
       </td>
       <td align="center">
         <h4>🏆 Longest Streak</h4>
-        <img src="https://img.shields.io/badge/Best_Streak-15-blue?style=for-the-badge&logo=github&logoColor=white" alt="Longest Streak"/>
-        <br><small>Aug 29 - Sep 12, 2025</small>
+        <img src="https://img.shields.io/badge/15_Days-blue?style=for-the-badge&logo=github&logoColor=white" alt="Longest Streak"/>
+        <br><small>Aug 29 - Sep 12</small>
       </td>
     </tr>
   </table>
