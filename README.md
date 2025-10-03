@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Biswarup Jana
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;4%2B+Years+of+Experience;15%2B+Completed+Projects;10%2B+Happy+Clients" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;4%2B+Years+of+Experience;15%2B+Completed+Projects;" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -20,9 +20,8 @@
 - 🎓 **Education:** B.Tech in Computer Science and Engineering
 - 🌍 **Location:** Kolkata, India
 - 📧 **Email:** biswarup@biswarupjana.com
-- 📱 **Phone:** +91 8350027526
-- 🌐 **Website:** [biswarupjana.com](http://biswarupjana.com)
-- 💼 **LinkedIn:** [Biswarup Jana](https://linkedin.com/in/biswarup-jana)
+- 🌐 **Website:** [biswarupjana.com](https://biswarupjana.com)
+- 💼 **LinkedIn:** [Biswarup Jana](https://www.linkedin.com/in/biswaruprx)
 - 🐙 **GitHub:** [@Biswarupjana](https://github.com/Biswarupjana)
 
 ---
@@ -94,85 +93,232 @@
 ## 🌐 API Architecture & Integration
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="API Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" alt="API Animation"/>
   <h2>🔥 API Ecosystem Hub</h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="200" alt="API Flow Animation"/>
 </div>
 
+---
+
+### 🎯 Core API Technologies
+
 <div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="80" alt="Webhooks Animation"/>
+          <h3>📡 Webhooks</h3>
+          <img src="https://img.shields.io/badge/WEBHOOKS-85%25-FF6B35?style=for-the-badge&logoColor=white" alt="Webhooks"/>
+          <br><br>
+          <p><strong>Real-time Event Notifications</strong></p>
+          <p align="left">
+            � <strong>HTTP Callbacks:</strong> Instant updates<br>
+            ⚡ <strong>Event-driven:</strong> Automatic triggers<br>
+            🔗 <strong>Perfect for:</strong> Third-party integrations<br>
+            � <strong>Architecture:</strong> Loosely coupled systems<br>
+            📡 <strong>Real-time:</strong> Zero polling overhead
+          </p>
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/213760677-1ea5cfcd-627b-4251-b50c-34b35a4bb59c.gif" width="80" alt="GraphQL Animation"/>
+          <h3>� GraphQL</h3>
+          <img src="https://img.shields.io/badge/GRAPHQL-75%25-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+          <br><br>
+          <p><strong>Query Language for APIs</strong></p>
+          <p align="left">
+            🎯 <strong>Single Endpoint:</strong> One URL for all operations<br>
+            📊 <strong>Flexible Queries:</strong> Client-specified data<br>
+            🔄 <strong>Real-time:</strong> Built-in subscriptions<br>
+            🛠️ <strong>Strongly Typed:</strong> Schema-first development<br>
+            📱 <strong>Mobile Optimized:</strong> Reduces over-fetching
+          </p>
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80" alt="SOAP Animation"/>
+          <h3>📨 SOAP</h3>
+          <img src="https://img.shields.io/badge/SOAP-65%25-1BA0D7?style=for-the-badge&logoColor=white" alt="SOAP"/>
+          <br><br>
+          <p><strong>Simple Object Access Protocol</strong></p>
+          <p align="left">
+            🔒 <strong>Enterprise Messaging:</strong> WS-Security standards<br>
+            📋 <strong>WSDL Contracts:</strong> Service descriptions<br>
+            🌐 <strong>Protocol Independent:</strong> HTTP, SMTP, TCP<br>
+            🏢 <strong>Enterprise Ready:</strong> Robust error handling<br>
+            📧 <strong>XML-based:</strong> Structured communication
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-```mermaid
-graph TB
-    API[🎯 API HUB 🎯]
+### ⚡ High-Performance APIs
 
-    %% Top Row
-    API --> WH[📡 Webhooks]
-    API --> GQL[🚀 GraphQL]
-    API --> SOAP[📨 SOAP]
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" alt="REST Animation"/>
+          <h3>� REST</h3>
+          <img src="https://img.shields.io/badge/REST_API-85%25-28A745?style=for-the-badge&logoColor=white" alt="REST API"/>
+          <br><br>
+          <p><strong>Representational State Transfer</strong></p>
+          <p align="left">
+            🌐 <strong>HTTP Methods:</strong> GET, POST, PUT, DELETE<br>
+            📋 <strong>Stateless:</strong> Each request is independent<br>
+            🔄 <strong>Cacheable:</strong> Improved performance<br>
+            🏗️ <strong>Resource-based:</strong> URLs represent resources<br>
+            📱 <strong>JSON/XML:</strong> Flexible response formats
+          </p>
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="80" alt="WebSocket Animation"/>
+          <h3>🌐 WebSocket</h3>
+          <img src="https://img.shields.io/badge/WEBSOCKET-80%25-4A90E2?style=for-the-badge&logoColor=white" alt="WebSocket"/>
+          <br><br>
+          <p><strong>Full-duplex Communication</strong></p>
+          <p align="left">
+            🔄 <strong>Bidirectional:</strong> Real-time data exchange<br>
+            ⚡ <strong>Low Latency:</strong> Minimal overhead<br>
+            🤝 <strong>Persistent:</strong> Maintained connections<br>
+            💬 <strong>Live Apps:</strong> Chat, gaming, notifications<br>
+            📡 <strong>Event-driven:</strong> Instant updates
+          </p>
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="80" alt="gRPC Animation"/>
+          <h3>⚡ gRPC</h3>
+          <img src="https://img.shields.io/badge/gRPC-70%25-4285F4?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC"/>
+          <br><br>
+          <p><strong>Google Remote Procedure Call</strong></p>
+          <p align="left">
+            🚀 <strong>High Performance:</strong> Binary protocol<br>
+            🔄 <strong>HTTP/2 Streaming:</strong> Multiplexed connections<br>
+            🌍 <strong>Cross-platform:</strong> Multi-language support<br>
+            📋 <strong>Protocol Buffers:</strong> Efficient serialization<br>
+            🔧 <strong>Code Generation:</strong> Auto-generated clients
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-    %% Middle Row
-    API --> REST[🔗 REST]
-    API --> WS[🌐 WebSocket]
-    API --> GRPC[⚡ gRPC]
+---
 
-    %% Bottom Row
-    API --> EDA[🏗️ EDA]
-    API --> SSE[📡 SSE]
-    API --> AMQP[📬 AMQP]
-    API --> MQTT[📡 MQTT]
+### 📡 Messaging & Event Systems
 
-    %% Styling
-    classDef apiHub fill:#FF6B35,stroke:#333,stroke-width:4px,color:#fff
-    classDef tech fill:#1f2937,stroke:#6366f1,stroke-width:2px,color:#fff
-
-    class API apiHub
-    class WH,GQL,SOAP,REST,WS,GRPC,EDA,SSE,AMQP,MQTT tech
-```
-
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="25%">
+        <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70" alt="EDA Animation"/>
+          <h3>🏗️ EDA</h3>
+          <img src="https://img.shields.io/badge/EDA-70%25-FF6B35?style=for-the-badge&logoColor=white" alt="EDA"/>
+          <br><br>
+          <p><strong>Event-Driven Architecture</strong></p>
+          <p align="left">
+            🎯 <strong>Event Producers & Consumers</strong><br>
+            🔄 <strong>Asynchronous Processing</strong><br>
+            📈 <strong>Highly Scalable Systems</strong><br>
+            🔌 <strong>Loosely Coupled Design</strong>
+          </p>
+        </div>
+      </td>
+      <td valign="top" width="25%">
+        <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="70" alt="SSE Animation"/>
+          <h3>� SSE</h3>
+          <img src="https://img.shields.io/badge/SSE-70%25-FF4B4B?style=for-the-badge&logoColor=white" alt="SSE"/>
+          <br><br>
+          <p><strong>Server-Sent Events</strong></p>
+          <p align="left">
+            📡 <strong>Server to Client Streaming</strong><br>
+            🔄 <strong>Automatic Reconnection</strong><br>
+            📱 <strong>Browser Native Support</strong><br>
+            💡 <strong>Live Feed Updates</strong>
+          </p>
+        </div>
+      </td>
+      <td valign="top" width="25%">
+        <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70" alt="AMQP Animation"/>
+          <h3>📬 AMQP</h3>
+          <img src="https://img.shields.io/badge/AMQP-70%25-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="AMQP"/>
+          <br><br>
+          <p><strong>Advanced Message Queuing</strong></p>
+          <p align="left">
+            📨 <strong>Reliable Message Delivery</strong><br>
+            🛡️ <strong>Guaranteed Processing</strong><br>
+            🎯 <strong>Flexible Routing Patterns</strong><br>
+            🏢 <strong>Enterprise Messaging</strong>
+          </p>
+        </div>
+      </td>
+      <td valign="top" width="25%">
+        <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/212749695-0c6c7632-b6c4-4174-87b8-26a7dd4e9076.gif" width="70" alt="MQTT Animation"/>
+          <h3>� MQTT</h3>
+          <img src="https://img.shields.io/badge/MQTT-75%25-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
+          <br><br>
+          <p><strong>Message Queuing Telemetry</strong></p>
+          <p align="left">
+            🏠 <strong>IoT Optimized Protocol</strong><br>
+            📱 <strong>Lightweight Messaging</strong><br>
+            🔔 <strong>Publish/Subscribe Pattern</strong><br>
+            📊 <strong>Telemetry & Monitoring</strong>
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Coding animation"/>
+  
+  <h3>🎯 API Integration Mastery Dashboard</h3>
+  
   <table>
     <tr>
-      <td align="center" width="33%">
-        <h3>📡 Webhooks</h3>
-        <img src="https://img.shields.io/badge/Webhooks-85%25-FF9500?style=for-the-badge&logo=webhook&logoColor=white" alt="Webhooks"/>
-        <br><br>
-        <strong>Real-time event notifications</strong><br>
-        • HTTP callbacks for instant updates<br>
-        • Event-driven architecture<br>
-        • Perfect for integrations<br>
-        • Automatic triggers<br>
-        <br>
-        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" alt="Animation"/>
-      </td>
-      <td align="center" width="33%">
-        <h3>🚀 GraphQL</h3>
-        <img src="https://img.shields.io/badge/GraphQL-75%25-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-        <br><br>
-        <strong>Query language for APIs</strong><br>
-        • Single endpoint flexibility<br>
-        • Client-specified queries<br>
-        • Real-time subscriptions<br>
-        • Strongly typed schema<br>
-        <br>
-        <img src="https://user-images.githubusercontent.com/74038190/213760677-1ea5cfcd-627b-4251-b50c-34b35a4bb59c.gif" width="60" alt="Animation"/>
-      </td>
-      <td align="center" width="33%">
-        <h3>📨 SOAP</h3>
-        <img src="https://img.shields.io/badge/SOAP-65%25-1BA0D7?style=for-the-badge&logo=soap&logoColor=white" alt="SOAP"/>
-        <br><br>
-        <strong>Simple Object Access Protocol</strong><br>
-        • Enterprise messaging<br>
-        • WS-Security standards<br>
-        • WSDL contracts<br>
-        • XML-based communication<br>
-        <br>
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60" alt="Animation"/>
-      </td>
+      <th>🌐 Web APIs</th>
+      <th>⚡ Real-time Communication</th>
+      <th>📡 Messaging Systems</th>
+      <th>🏗️ Architecture Patterns</th>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/REST-85%25-28A745?style=flat-square&logo=api"/> ⭐⭐⭐⭐⭐</td>
+      <td><img src="https://img.shields.io/badge/WebSocket-80%25-4A90E2?style=flat-square"/> ⭐⭐⭐⭐</td>
+      <td><img src="https://img.shields.io/badge/MQTT-75%25-660066?style=flat-square&logo=mqtt"/> ⭐⭐⭐⭐</td>
+      <td><img src="https://img.shields.io/badge/EDA-70%25-FF6B35?style=flat-square"/> ⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/GraphQL-75%25-E10098?style=flat-square&logo=graphql"/> ⭐⭐⭐⭐</td>
+      <td><img src="https://img.shields.io/badge/SSE-70%25-FF4B4B?style=flat-square"/> ⭐⭐⭐</td>
+      <td><img src="https://img.shields.io/badge/AMQP-70%25-FF6600?style=flat-square&logo=rabbitmq"/> ⭐⭐⭐</td>
+      <td><img src="https://img.shields.io/badge/Microservices-85%25-00D4AA?style=flat-square"/> ⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/SOAP-65%25-1BA0D7?style=flat-square"/> ⭐⭐⭐</td>
+      <td><img src="https://img.shields.io/badge/gRPC-70%25-4285F4?style=flat-square&logo=grpc"/> ⭐⭐⭐⭐</td>
+      <td><img src="https://img.shields.io/badge/Webhooks-85%25-FF6B35?style=flat-square"/> ⭐⭐⭐⭐⭐</td>
+      <td><img src="https://img.shields.io/badge/Event_Streaming-75%25-9B59B6?style=flat-square"/> ⭐⭐⭐⭐</td>
     </tr>
   </table>
+  
 </div>
 
 ---
