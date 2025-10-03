@@ -12,11 +12,11 @@
 
 ## 🚀 About Me
 
-> *An adaptable and responsible person who enjoys challenge and achieving personal goals with logical mind, practical approach and a drive to see things through to completion. Always eager to learn new languages, frameworks, and libraries, demonstrating a willingness to embrace new opportunities for growth and development.*
+> _An adaptable and responsible person who enjoys challenge and achieving personal goals with logical mind, practical approach and a drive to see things through to completion. Always eager to learn new languages, frameworks, and libraries, demonstrating a willingness to embrace new opportunities for growth and development._
 
 - 🔭 **Experience:** 4+ Years of professional development
 - 🎯 **Projects:** 15+ Completed projects
-- 😊 **Clients:** 10+ Happy clients  
+- 😊 **Clients:** 10+ Happy clients
 - 🏢 **Companies:** 3+ Company experiences
 - 🎓 **Education:** B.Tech in Computer Science and Engineering
 - 🌍 **Location:** Kolkata, India
@@ -33,6 +33,7 @@
 <div align="center">
 
 ### Frontend Technologies
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-86%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-70%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -41,6 +42,7 @@
 </p>
 
 ### Frameworks & Libraries
+
 <p>
   <img src="https://img.shields.io/badge/React-75%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Redux-70%25-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
@@ -48,6 +50,7 @@
 </p>
 
 ### Backend Technologies
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-90%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-95%25-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
@@ -55,6 +58,7 @@
 </p>
 
 ### Databases
+
 <p>
   <img src="https://img.shields.io/badge/MongoDB-90%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/PostgreSQL-85%25-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -62,6 +66,7 @@
 </p>
 
 ### Tools & Platforms
+
 <p>
   <img src="https://img.shields.io/badge/Git-70%25-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-60%25-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -70,6 +75,7 @@
 </p>
 
 ### Design & Other
+
 <p>
   <img src="https://img.shields.io/badge/Figma-70%25-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Firebase-70%25-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
@@ -133,12 +139,12 @@
 
 <div align="center">
 
-| 🎯 Metric | 📊 Value |
-|-----------|----------|
-| **Years of Experience** | 4+ |
-| **Completed Projects** | 15+ |
-| **Happy Clients** | 10+ |
-| **Company Experiences** | 3+ |
+| 🎯 Metric                 | 📊 Value                |
+| ------------------------- | ----------------------- |
+| **Years of Experience**   | 4+                      |
+| **Completed Projects**    | 15+                     |
+| **Happy Clients**         | 10+                     |
+| **Company Experiences**   | 3+                      |
 | **Programming Languages** | English, Bengali, Hindi |
 
 </div>
