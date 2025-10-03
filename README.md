@@ -105,11 +105,13 @@
 ---
 
 ### 🔗 REST API
+
 <div align="center">
 <img src="https://img.shields.io/badge/REST_API-85%25-FF6B6B?style=for-the-badge&logo=api&logoColor=white" alt="REST API"/>
 </div>
 
 > **Representational State Transfer** - The foundation of modern web APIs
+
 - 🌐 **HTTP Methods**: GET, POST, PUT, DELETE for resource manipulation
 - 📋 **Stateless**: Each request contains all information needed
 - 🔄 **Cacheable**: Responses can be cached for better performance
@@ -119,11 +121,13 @@
 ---
 
 ### 🚀 GraphQL
+
 <div align="center">
 <img src="https://img.shields.io/badge/GraphQL-75%25-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
 </div>
 
 > **Query Language for APIs** - Flexible and efficient data fetching
+
 - 🎯 **Single Endpoint**: One URL for all data operations
 - 📊 **Flexible Queries**: Client specifies exactly what data they need
 - 🔄 **Real-time**: Built-in subscription support for live updates
@@ -133,11 +137,13 @@
 ---
 
 ### 📨 SOAP
+
 <div align="center">
 <img src="https://img.shields.io/badge/SOAP-65%25-1BA0D7?style=for-the-badge&logo=soap&logoColor=white" alt="SOAP"/>
 </div>
 
 > **Simple Object Access Protocol** - Enterprise-grade messaging protocol
+
 - 🔒 **WS-Security**: Built-in security features for enterprise applications
 - 📋 **WSDL**: Web Services Description Language for service contracts
 - 🌐 **Protocol Independent**: Works over HTTP, SMTP, TCP, and more
@@ -147,11 +153,13 @@
 ---
 
 ### 🔌 Webhooks
+
 <div align="center">
 <img src="https://img.shields.io/badge/Webhooks-85%25-FF9500?style=for-the-badge&logo=webhook&logoColor=white" alt="Webhooks"/>
 </div>
 
 > **Real-time Event Notifications** - HTTP callbacks for instant updates
+
 - ⚡ **Event-Driven**: Triggers on specific events automatically
 - 🔄 **Real-time**: Instant notifications without polling
 - 🔗 **HTTP Callbacks**: Simple HTTP POST requests to endpoints
@@ -161,11 +169,13 @@
 ---
 
 ### ⚡ gRPC
+
 <div align="center">
 <img src="https://img.shields.io/badge/gRPC-70%25-4285F4?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC"/>
 </div>
 
 > **Google Remote Procedure Call** - High-performance, cross-platform RPC
+
 - 🚀 **High Performance**: Binary protocol with HTTP/2 support
 - 🔄 **Streaming**: Support for client, server, and bidirectional streaming
 - 🌍 **Cross-Platform**: Works across multiple programming languages
@@ -175,11 +185,13 @@
 ---
 
 ### 🌐 WebSocket
+
 <div align="center">
 <img src="https://img.shields.io/badge/WebSocket-80%25-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSocket"/>
 </div>
 
 > **Full-duplex Communication** - Real-time, bidirectional communication
+
 - 🔄 **Bidirectional**: Client and server can send data simultaneously
 - ⚡ **Low Latency**: Minimal overhead for real-time applications
 - 💬 **Real-time Apps**: Perfect for chat, gaming, and live updates
@@ -189,11 +201,13 @@
 ---
 
 ### 📡 EDA (Event-Driven Architecture)
+
 <div align="center">
 <img src="https://img.shields.io/badge/EDA-70%25-FF6B6B?style=for-the-badge&logo=apache&logoColor=white" alt="EDA"/>
 </div>
 
 > **Event-Driven Architecture** - Loosely coupled, scalable system design
+
 - 🎯 **Event Producers**: Services that generate events
 - 📥 **Event Consumers**: Services that react to events
 - 🔄 **Asynchronous**: Non-blocking event processing
@@ -203,11 +217,13 @@
 ---
 
 ### 🔧 SSE (Server-Sent Events)
+
 <div align="center">
 <img src="https://img.shields.io/badge/Server_Sent_Events-70%25-FF4B4B?style=for-the-badge&logo=sse&logoColor=white" alt="SSE"/>
 </div>
 
 > **Server-Sent Events** - One-way real-time communication
+
 - 📡 **Server to Client**: Server pushes data to browser
 - 🔄 **Automatic Reconnection**: Built-in reconnection mechanism
 - 📱 **Browser Native**: No additional libraries required
@@ -217,11 +233,13 @@
 ---
 
 ### 📬 AMQP (Advanced Message Queuing Protocol)
+
 <div align="center">
 <img src="https://img.shields.io/badge/AMQP-70%25-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="AMQP"/>
 </div>
 
 > **Advanced Message Queuing Protocol** - Reliable messaging middleware
+
 - 📨 **Message Queuing**: Reliable message delivery system
 - 🔄 **Asynchronous**: Decoupled sender and receiver
 - 🛡️ **Guaranteed Delivery**: Message persistence and acknowledgments
@@ -231,11 +249,13 @@
 ---
 
 ### 📡 MQTT
+
 <div align="center">
 <img src="https://img.shields.io/badge/MQTT-75%25-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
 </div>
 
 > **Message Queuing Telemetry Transport** - Lightweight IoT messaging
+
 - 🏠 **IoT Optimized**: Designed for Internet of Things applications
 - 📱 **Lightweight**: Minimal bandwidth and battery usage
 - 🔔 **Publish/Subscribe**: Efficient one-to-many communication
