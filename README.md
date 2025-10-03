@@ -95,186 +95,221 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="API Animation"/>
-  <h2>🔥 Comprehensive API Ecosystem</h2>
+  <h2>🔥 API Ecosystem Hub</h2>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="300" alt="API Flow Animation"/>
+
+```mermaid
+graph TB
+    API[🎯 API HUB 🎯]
+
+    %% Top Row
+    API --> WH[📡 Webhooks]
+    API --> GQL[🚀 GraphQL]
+    API --> SOAP[📨 SOAP]
+
+    %% Middle Row
+    API --> REST[🔗 REST]
+    API --> WS[🌐 WebSocket]
+    API --> GRPC[⚡ gRPC]
+
+    %% Bottom Row
+    API --> EDA[🏗️ EDA]
+    API --> SSE[📡 SSE]
+    API --> AMQP[📬 AMQP]
+    API --> MQTT[📡 MQTT]
+
+    %% Styling
+    classDef apiHub fill:#FF6B35,stroke:#333,stroke-width:4px,color:#fff
+    classDef tech fill:#1f2937,stroke:#6366f1,stroke-width:2px,color:#fff
+
+    class API apiHub
+    class WH,GQL,SOAP,REST,WS,GRPC,EDA,SSE,AMQP,MQTT tech
+```
+
 </div>
 
 ---
 
-### 🔗 REST API
-
 <div align="center">
-<img src="https://img.shields.io/badge/REST_API-85%25-FF6B6B?style=for-the-badge&logo=api&logoColor=white" alt="REST API"/>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>📡 Webhooks</h3>
+        <img src="https://img.shields.io/badge/Webhooks-85%25-FF9500?style=for-the-badge&logo=webhook&logoColor=white" alt="Webhooks"/>
+        <br><br>
+        <strong>Real-time event notifications</strong><br>
+        • HTTP callbacks for instant updates<br>
+        • Event-driven architecture<br>
+        • Perfect for integrations<br>
+        • Automatic triggers<br>
+        <br>
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" alt="Animation"/>
+      </td>
+      <td align="center" width="33%">
+        <h3>🚀 GraphQL</h3>
+        <img src="https://img.shields.io/badge/GraphQL-75%25-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+        <br><br>
+        <strong>Query language for APIs</strong><br>
+        • Single endpoint flexibility<br>
+        • Client-specified queries<br>
+        • Real-time subscriptions<br>
+        • Strongly typed schema<br>
+        <br>
+        <img src="https://user-images.githubusercontent.com/74038190/213760677-1ea5cfcd-627b-4251-b50c-34b35a4bb59c.gif" width="60" alt="Animation"/>
+      </td>
+      <td align="center" width="33%">
+        <h3>📨 SOAP</h3>
+        <img src="https://img.shields.io/badge/SOAP-65%25-1BA0D7?style=for-the-badge&logo=soap&logoColor=white" alt="SOAP"/>
+        <br><br>
+        <strong>Simple Object Access Protocol</strong><br>
+        • Enterprise messaging<br>
+        • WS-Security standards<br>
+        • WSDL contracts<br>
+        • XML-based communication<br>
+        <br>
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60" alt="Animation"/>
+      </td>
+    </tr>
+  </table>
 </div>
-
-> **Representational State Transfer** - The foundation of modern web APIs
-
-- 🌐 **HTTP Methods**: GET, POST, PUT, DELETE for resource manipulation
-- 📋 **Stateless**: Each request contains all information needed
-- 🔄 **Cacheable**: Responses can be cached for better performance
-- 📱 **Mobile-First**: Perfect for mobile and web applications
-- 🏗️ **Resource-Based**: URLs represent resources, not actions
-
----
-
-### 🚀 GraphQL
-
-<div align="center">
-<img src="https://img.shields.io/badge/GraphQL-75%25-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-</div>
-
-> **Query Language for APIs** - Flexible and efficient data fetching
-
-- 🎯 **Single Endpoint**: One URL for all data operations
-- 📊 **Flexible Queries**: Client specifies exactly what data they need
-- 🔄 **Real-time**: Built-in subscription support for live updates
-- 📱 **Mobile Optimized**: Reduces over-fetching and under-fetching
-- 🛠️ **Strongly Typed**: Schema-first development approach
-
----
-
-### 📨 SOAP
-
-<div align="center">
-<img src="https://img.shields.io/badge/SOAP-65%25-1BA0D7?style=for-the-badge&logo=soap&logoColor=white" alt="SOAP"/>
-</div>
-
-> **Simple Object Access Protocol** - Enterprise-grade messaging protocol
-
-- 🔒 **WS-Security**: Built-in security features for enterprise applications
-- 📋 **WSDL**: Web Services Description Language for service contracts
-- 🌐 **Protocol Independent**: Works over HTTP, SMTP, TCP, and more
-- 🏢 **Enterprise Ready**: Robust error handling and transaction support
-- 📧 **Message-Based**: XML messaging with envelope structure
-
----
-
-### 🔌 Webhooks
-
-<div align="center">
-<img src="https://img.shields.io/badge/Webhooks-85%25-FF9500?style=for-the-badge&logo=webhook&logoColor=white" alt="Webhooks"/>
-</div>
-
-> **Real-time Event Notifications** - HTTP callbacks for instant updates
-
-- ⚡ **Event-Driven**: Triggers on specific events automatically
-- 🔄 **Real-time**: Instant notifications without polling
-- 🔗 **HTTP Callbacks**: Simple HTTP POST requests to endpoints
-- 🎯 **Targeted**: Send specific data to relevant endpoints
-- 📡 **Integration**: Perfect for third-party service integrations
-
----
-
-### ⚡ gRPC
-
-<div align="center">
-<img src="https://img.shields.io/badge/gRPC-70%25-4285F4?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC"/>
-</div>
-
-> **Google Remote Procedure Call** - High-performance, cross-platform RPC
-
-- 🚀 **High Performance**: Binary protocol with HTTP/2 support
-- 🔄 **Streaming**: Support for client, server, and bidirectional streaming
-- 🌍 **Cross-Platform**: Works across multiple programming languages
-- 📋 **Protocol Buffers**: Efficient serialization with strong typing
-- 🔧 **Code Generation**: Auto-generates client and server code
-
----
-
-### 🌐 WebSocket
-
-<div align="center">
-<img src="https://img.shields.io/badge/WebSocket-80%25-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSocket"/>
-</div>
-
-> **Full-duplex Communication** - Real-time, bidirectional communication
-
-- 🔄 **Bidirectional**: Client and server can send data simultaneously
-- ⚡ **Low Latency**: Minimal overhead for real-time applications
-- 💬 **Real-time Apps**: Perfect for chat, gaming, and live updates
-- 🤝 **Persistent Connection**: Maintains connection after handshake
-- 📡 **Event-Driven**: Handles real-time events efficiently
-
----
-
-### 📡 EDA (Event-Driven Architecture)
-
-<div align="center">
-<img src="https://img.shields.io/badge/EDA-70%25-FF6B6B?style=for-the-badge&logo=apache&logoColor=white" alt="EDA"/>
-</div>
-
-> **Event-Driven Architecture** - Loosely coupled, scalable system design
-
-- 🎯 **Event Producers**: Services that generate events
-- 📥 **Event Consumers**: Services that react to events
-- 🔄 **Asynchronous**: Non-blocking event processing
-- 📈 **Scalable**: Easy to scale individual components
-- 🔌 **Decoupled**: Services communicate through events
-
----
-
-### 🔧 SSE (Server-Sent Events)
-
-<div align="center">
-<img src="https://img.shields.io/badge/Server_Sent_Events-70%25-FF4B4B?style=for-the-badge&logo=sse&logoColor=white" alt="SSE"/>
-</div>
-
-> **Server-Sent Events** - One-way real-time communication
-
-- 📡 **Server to Client**: Server pushes data to browser
-- 🔄 **Automatic Reconnection**: Built-in reconnection mechanism
-- 📱 **Browser Native**: No additional libraries required
-- 💡 **Live Updates**: Perfect for notifications and live feeds
-- 🌐 **HTTP-Based**: Uses standard HTTP connection
-
----
-
-### 📬 AMQP (Advanced Message Queuing Protocol)
-
-<div align="center">
-<img src="https://img.shields.io/badge/AMQP-70%25-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="AMQP"/>
-</div>
-
-> **Advanced Message Queuing Protocol** - Reliable messaging middleware
-
-- 📨 **Message Queuing**: Reliable message delivery system
-- 🔄 **Asynchronous**: Decoupled sender and receiver
-- 🛡️ **Guaranteed Delivery**: Message persistence and acknowledgments
-- 🎯 **Routing**: Flexible message routing patterns
-- 🏢 **Enterprise**: Battle-tested for mission-critical applications
-
----
-
-### 📡 MQTT
-
-<div align="center">
-<img src="https://img.shields.io/badge/MQTT-75%25-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
-</div>
-
-> **Message Queuing Telemetry Transport** - Lightweight IoT messaging
-
-- 🏠 **IoT Optimized**: Designed for Internet of Things applications
-- 📱 **Lightweight**: Minimal bandwidth and battery usage
-- 🔔 **Publish/Subscribe**: Efficient one-to-many communication
-- 🌐 **Quality of Service**: Multiple delivery guarantee levels
-- 📊 **Telemetry**: Perfect for sensor data and monitoring
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Coding animation"/>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>🔗 REST</h3>
+        <img src="https://img.shields.io/badge/REST_API-85%25-FF6B6B?style=for-the-badge&logo=api&logoColor=white" alt="REST API"/>
+        <br><br>
+        <strong>Representational State Transfer</strong><br>
+        • HTTP methods (GET, POST, PUT, DELETE)<br>
+        • Stateless architecture<br>
+        • Resource-based URLs<br>
+        • JSON/XML responses<br>
+        <br>
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" alt="Animation"/>
+      </td>
+      <td align="center" width="33%">
+        <h3>🌐 WebSocket</h3>
+        <img src="https://img.shields.io/badge/WebSocket-80%25-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSocket"/>
+        <br><br>
+        <strong>Full-duplex communication</strong><br>
+        • Real-time bidirectional data<br>
+        • Persistent connections<br>
+        • Low latency messaging<br>
+        • Live applications support<br>
+        <br>
+        <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="60" alt="Animation"/>
+      </td>
+      <td align="center" width="33%">
+        <h3>⚡ gRPC</h3>
+        <img src="https://img.shields.io/badge/gRPC-70%25-4285F4?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC"/>
+        <br><br>
+        <strong>Google Remote Procedure Call</strong><br>
+        • High-performance binary protocol<br>
+        • HTTP/2 streaming support<br>
+        • Protocol Buffers serialization<br>
+        • Cross-platform compatibility<br>
+        <br>
+        <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="60" alt="Animation"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <h3>🏗️ EDA</h3>
+        <img src="https://img.shields.io/badge/EDA-70%25-FF6B6B?style=for-the-badge&logo=apache&logoColor=white" alt="EDA"/>
+        <br><br>
+        <strong>Event-Driven Architecture</strong><br>
+        • Event producers & consumers<br>
+        • Asynchronous processing<br>
+        • Loosely coupled systems<br>
+        • Scalable microservices<br>
+        <br>
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" alt="Animation"/>
+      </td>
+      <td align="center" width="25%">
+        <h3>� SSE</h3>
+        <img src="https://img.shields.io/badge/Server_Sent_Events-70%25-FF4B4B?style=for-the-badge&logo=sse&logoColor=white" alt="SSE"/>
+        <br><br>
+        <strong>Server-Sent Events</strong><br>
+        • One-way server to client<br>
+        • Automatic reconnection<br>
+        • Browser native support<br>
+        • Live feed updates<br>
+        <br>
+        <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="50" alt="Animation"/>
+      </td>
+      <td align="center" width="25%">
+        <h3>📬 AMQP</h3>
+        <img src="https://img.shields.io/badge/AMQP-70%25-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="AMQP"/>
+        <br><br>
+        <strong>Advanced Message Queuing</strong><br>
+        • Reliable message delivery<br>
+        • Message persistence<br>
+        • Flexible routing patterns<br>
+        • Enterprise messaging<br>
+        <br>
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" alt="Animation"/>
+      </td>
+      <td align="center" width="25%">
+        <h3>📡 MQTT</h3>
+        <img src="https://img.shields.io/badge/MQTT-75%25-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
+        <br><br>
+        <strong>Message Queuing Telemetry</strong><br>
+        • IoT optimized protocol<br>
+        • Lightweight messaging<br>
+        • Publish/Subscribe pattern<br>
+        • Quality of Service levels<br>
+        <br>
+        <img src="https://user-images.githubusercontent.com/74038190/212749695-0c6c7632-b6c4-4174-87b8-26a7dd4e9076.gif" width="50" alt="Animation"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Coding animation"/>
   
-  <h3>🎯 API Integration Expertise</h3>
+  <h3>🎯 API Integration Mastery</h3>
   
-  | **Category** | **Technologies** | **Proficiency** |
-  |---|---|---|
-  | 🌐 **Web APIs** | REST, GraphQL, SOAP | ⭐⭐⭐⭐⭐ |
-  | ⚡ **Real-time** | WebSocket, SSE, gRPC | ⭐⭐⭐⭐ |
-  | 🔔 **Messaging** | MQTT, AMQP, Webhooks | ⭐⭐⭐⭐ |
-  | 🏗️ **Architecture** | EDA, Microservices, ESB | ⭐⭐⭐⭐ |
+  <table>
+    <tr>
+      <th>🌐 Web APIs</th>
+      <th>⚡ Real-time</th>
+      <th>📡 Messaging</th>
+      <th>🏗️ Architecture</th>
+    </tr>
+    <tr>
+      <td>REST ⭐⭐⭐⭐⭐</td>
+      <td>WebSocket ⭐⭐⭐⭐</td>
+      <td>MQTT ⭐⭐⭐⭐</td>
+      <td>EDA ⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td>GraphQL ⭐⭐⭐⭐</td>
+      <td>SSE ⭐⭐⭐</td>
+      <td>AMQP ⭐⭐⭐</td>
+      <td>Microservices ⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td>SOAP ⭐⭐⭐</td>
+      <td>gRPC ⭐⭐⭐⭐</td>
+      <td>Webhooks ⭐⭐⭐⭐⭐</td>
+      <td>Event Streaming ⭐⭐⭐</td>
+    </tr>
+  </table>
   
 </div>
 
